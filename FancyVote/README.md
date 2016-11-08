@@ -1,12 +1,17 @@
 # Introduction
-we are going to develop a program able to launch a vote among several people, the topics of which are various, such as who is the most foolish, diaoers and so on.
+We are going to develop a program able to launch a vote among several people, the topics of which are various, such as who is the most foolish, diaoers and so on.
 
 # Details
 There is something more detail:
+
 1. Made a group for later vote. The permission of this file is only readable for the host.
+
 2. Then the group members sign in one by one.
+
 3. After that, each group members log in, and vote for the items for another members. Every item accepts the list name of group members ranking from the most to the worst.
+
 4. After that, each group members will give answers for every items for self testing.
+
 5. Finally, our program will make the final ranking for everyone in every items. The final scores will base on the vote(70%) and self testing(30%).
 
 # Authors
