@@ -1,7 +1,9 @@
 # Introduction
 Random Password Generator.
 
-To read the help or manual, please type:
+# Usage
+
+To read the help/manual and usage example, please type:
 
 ```perl
 ./rpg.pl
@@ -20,11 +22,13 @@ To read the help or manual, please type:
   * by adding custom characters
   * by blacklisting custom characters
   * by excluding some non-human-readable characters`O0l1`
-
-
 - It allows you to specify any desired length of the password, including specify the minimum and maximum length.
 - It allows you to get more than one password at once.
 - It allows you to get the exact same password by using random seed.
+
+# Author
+
+* Yixf (Yi Xianfu), TIJMU
 
 # Reference
 
